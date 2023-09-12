@@ -1,7 +1,3 @@
-Certainly, let's make the description even more concise:
-
----
-
 ## ESP32-RickRollAPs
 
 Generate Rick Astley "Rickroll" Access Points (APs) with your ESP32.
@@ -18,6 +14,8 @@ This repository contains ESP32 code to generate multiple Access Points (APs) wit
 4. Enjoy the reactions.
 
 Customize the list of lyrics to fit SSID limits. Use responsibly and comply with local laws.
+
+---
 
 ### Author
 
