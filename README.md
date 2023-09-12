@@ -23,6 +23,6 @@ Thisfact
 
 ### License
 
-[License Name] License
+ GPL-3.0 license License
 
 ---
